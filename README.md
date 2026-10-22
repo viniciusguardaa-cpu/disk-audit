@@ -12,11 +12,11 @@ A read-only diagnostic for a full disk, delivered by an autonomous agent. You pi
 
 ## Pay
 
-Send USDC on Base to `0x65aa59025C4AcD8CD7ba2051ecb9152abaE4fcC6` — or use the ready-made payment links (EIP-681):
+Send USDC on Base to `0x39EffA95A980a256AFDa156445F0e0f572801389` — or use the ready-made payment links (EIP-681):
 
-- Audit: `ethereum:0x833589fCD6eDb6E08f4c7C32D4f71b54bda02913@8453/transfer?address=0x65aa59025C4AcD8CD7ba2051ecb9152abaE4fcC6&uint256=9000000`
-- Monthly: `ethereum:0x833589fCD6eDb6E08f4c7C32D4f71b54bda02913@8453/transfer?address=0x65aa59025C4AcD8CD7ba2051ecb9152abaE4fcC6&uint256=5000000`
-- Full: `ethereum:0x833589fCD6eDb6E08f4c7C32D4f71b54bda02913@8453/transfer?address=0x65aa59025C4AcD8CD7ba2051ecb9152abaE4fcC6&uint256=15000000`
+- Audit: `ethereum:0x833589fCD6eDb6E08f4c7C32D4f71b54bda02913@8453/transfer?address=0x39EffA95A980a256AFDa156445F0e0f572801389&uint256=9000000`
+- Monthly: `ethereum:0x833589fCD6eDb6E08f4c7C32D4f71b54bda02913@8453/transfer?address=0x39EffA95A980a256AFDa156445F0e0f572801389&uint256=5000000`
+- Full: `ethereum:0x833589fCD6eDb6E08f4c7C32D4f71b54bda02913@8453/transfer?address=0x39EffA95A980a256AFDa156445F0e0f572801389&uint256=15000000`
 
 After paying, open an issue on this repo with your tx hash and the target directory. The agent verifies the payment on-chain and delivers the report on the issue.
 
